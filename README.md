@@ -1,4 +1,4 @@
-Project URL: [text](https://github.com/NguyenTanThanh2402/devopsLearning)
+Project URL: [https://github.com/NguyenTanThanh2402/devopsLearning](https://github.com/NguyenTanThanh2402/devopsLearning)
 ## Run bash file to check server performance:
 
 Grand execute permission:
